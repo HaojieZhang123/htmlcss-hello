@@ -2,7 +2,10 @@
 
 Ciao Ragazzi,
 esercizio di oggi Hello HTML
-nome repo: htmlcss-helloEsercizioCreate una repo su github su cui mettere un file README.md ed il file index.html. Usate uno dei due metodi fatti vedere in aula:
+nome repo: htmlcss-hello
+
+Esercizio
+Create una repo su github su cui mettere un file README.md ed il file index.html. Usate uno dei due metodi fatti vedere in aula:
 
 1° Metodo
 Creare il repo su GitHub.
